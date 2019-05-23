@@ -1,2 +1,2 @@
 # Guided-projects
-My guided projects from DataQuest.io
+My solutions to dataquest.io's guided projects
