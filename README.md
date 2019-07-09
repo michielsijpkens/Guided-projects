@@ -5,3 +5,4 @@ My solutions to dataquest.io's guided projects:
 •	Data Cleaning and Analysis - Employee Exit Surveys  
 •	Exploratory Data Visualization - Earnings Based On College Majors  
 •	Pandas and NumPy Fundamentals - Exploring Ebay Car Sales Data
+• Answering Business Questions using SQL
